@@ -18,3 +18,5 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+samples/twitter-demo/res/values-v8/strings.xml
